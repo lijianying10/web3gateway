@@ -1,0 +1,10 @@
+{
+    "nonce_password": "7@-qqqq*!qqqZ4vwdf64pj*iMBekMiVc",
+    "public_key_2_name": {
+        "GCJZ9Gnr5yVd4SoujArJtPEZjzQQArC1A5tMTeGk5365": "phantom",
+        "0x4fff5df3da15cbc2001049e3fca7c42df3df85ed": "eth"
+    },
+    "host_mapping": {
+        "192.168.2.18:8000": "bing.com"
+    }
+}
